@@ -1,0 +1,23 @@
+.headerContent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 8%;
+    width: 100%;
+    background-color: blueviolet;
+    border-bottom: 2px solid black;
+}
+.navContent{
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+    justify-content: space-around;
+    height: 80%;
+    width: 18%;
+}
+.navImage{
+    background-color: white;
+    height: 60%;
+    width: 15%;
+}
